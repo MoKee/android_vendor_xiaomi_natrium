@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1592054330 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_xiaomi_natrium\nnonce 1592054330-010A2FE5266057995095B9C81CAE636D01853F8A\n\n0000000000000000000000000000000000000000 e083dd1adf0ae5c47185dd5b45867bc783d2456c refs/for/mkq-mr1\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl7k0joACgkQ8iL05i7N\nJTGTFAgAhSOaFy3XvZzUyr9mBWc/A8JuYuZWnwbPzJKstjng+ooPtxpR06u5Kmug\nXmWFGQ4NgkWQUTeUDRXg66UCMdER98eeoUp1nkcPDxPE/waAOOjAIKRTzU3QmjWf\nLkLwZWfmWBA2mSD9mNupAkC9GpCYLH3YlD031YmEoVN5hPiUBmpQymci+Vpijd4B\nInjhdufMmYafQiVduFkhDeKm4pzafnRu7kZcMh93dL6kaKwkJ7EEbvrRyoqMl1iM\nAIC3t6KBNKH1yjlTZKh1+4KdSfeVMQqxiM2n3ObXb18W/ex4MwKkOPMvbJks6wN2\nrckEhp9wP+FC1Qc8+MvQ4fdZVfsBTA\u003d\u003d\n\u003dTI9r\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
